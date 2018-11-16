@@ -1,4 +1,5 @@
 // main.js
-const values = [ 1, 2, 4, 5, 6, 7, 8, 9 ];
-const answer = sum(values)
+const value1 = 20;
+const value2 = 22;
+const answer = add(value1, value2);
 document.getElementById("answer").innerHTML = answer;
